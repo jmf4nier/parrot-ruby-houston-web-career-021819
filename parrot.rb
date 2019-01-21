@@ -5,3 +5,4 @@ def parrot(response = "Squawk!")
   response
 end
 parrot("hello there!")
+parrot
